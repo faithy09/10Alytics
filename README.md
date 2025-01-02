@@ -5,6 +5,7 @@ This repository consists of Faith Esohe Ejele Data Analysis projects.
 Hello and welcome to my GitHub! I’m a dedicated Data Analyst with a passion for turning data into actionable insights, solving complex problems, and enabling smarter decision-making. Whether working with small datasets or tackling large, intricate data structures, I thrive on transforming raw information into valuable, impactful results.
 
 # Skills
+
 * Technical Skills
  - Data Cleaning and Preparation
  - Data Visualization
