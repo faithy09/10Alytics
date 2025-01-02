@@ -27,11 +27,11 @@ Data Visualization: Creating compelling and informative visuals with tools like 
 Statistical Analysis: Utilizing statistical techniques to assess performance, identify trends, and make accurate predictions.
 Database Management: Developing efficient SQL queries to access, analyze, and manage large-scale data.# 
 
-# Data Source- 10ALYTICS
+# Data Source- 10Alytics
 
 # Tools- Microsoft Excel, Tableau, Power BI, SQL, Python
 
-# PROJECT 1
+# Project 1
 
 # Project Overview
 This dataset contains information about various product categories available in a retail store. It includes sales data across different regions, highlighting purchases made by male and female customers from various age groups.
@@ -54,7 +54,7 @@ The data from the retail shop reveals customer purchase trends across various re
 Focusing on the East region, which recorded the highest sales overall, "Electronics" emerged as the top-selling product category. Female customers accounted for $143M in sales for this category, while male customers contributed $146M, making "Electronics" the leading choice for both groups in the region.
 
 
-# PROJECT 2
+# Project 2
 # Project Overview
 This dataset contains information about various product categories available in a retail store. It includes sales data across different regions, highlighting purchases made by male and female customers from various age groups.
 
