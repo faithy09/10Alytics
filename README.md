@@ -27,6 +27,9 @@ Data Visualization: Creating compelling and informative visuals with tools like 
 Statistical Analysis: Utilizing statistical techniques to assess performance, identify trends, and make accurate predictions.
 Database Management: Developing efficient SQL queries to access, analyze, and manage large-scale data.# 
 
+# Data Source- 10ALYTICS
+
+# Tools- Microsoft Excel, Tableau, Power BI, SQL, Python
 
 # Overview
 This dataset contains information about various product categories available in a retail store. It includes sales data across different regions, highlighting purchases made by male and female customers from various age groups.
